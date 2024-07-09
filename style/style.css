@@ -243,3 +243,59 @@
 /* Third div design ends */
 
 /* --------------Second section design Ends------------ */
+
+
+/* ---------------Third Section Design Starts-------------*/
+.third-section-container {
+    width: 1140px;
+    height: 775px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    margin-bottom: 151px;
+}
+
+.third-section-container h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 852px;
+    height: 37px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+
+.third-section-container p {
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+width: 852px;
+height: 52px;
+margin: 0 auto;
+margin-bottom: 48px;
+}
+
+.yt-video {
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    width: 1140px;
+    height: 614px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.yt-video iframe{
+    border-radius: 16px;
+}
+
+/* ---------------Third Section Design Ends-------------*/
