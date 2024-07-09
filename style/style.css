@@ -401,10 +401,6 @@
 
 /*------------Fifth Section Design Begins-----------------*/
 
-
-
-/*------------Fifth Section Design Ends-----------------*/
-
 .fifth-section-container {
     border-radius: 16px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/handshake.jpg');
@@ -490,3 +486,56 @@
     display: flex;
     align-items: center;
 }
+
+/*------------Fifth Section Design Ends-----------------*/
+
+/* ------------- Footer Section Design Begins------------ */
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    padding: 32px;
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    /* border: 2px solid red; */
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1140px;
+    height: 36px;
+    /* border: 2px solid red; */
+}
+
+.footer-content p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 456px;
+    height: 23px;
+}
+
+.footer-content img {
+    width: 36px;
+    height: 36px;
+}
+
+.icons-container {
+    width: 157.01px;
+    height: 36px;
+    display: flex;
+    gap: 24px;
+}
+
+/* ------------- Footer Section Design Ends------------ */
